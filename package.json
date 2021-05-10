@@ -10,7 +10,7 @@
     "cat-facts": "^1.0.2",
     "download-file": "^0.1.5",
     "is-thirteen": "^2.0.0",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.21",
     "pdfkit": "^0.10.0",
     "wallpaper": "^4.4.1"
   },
